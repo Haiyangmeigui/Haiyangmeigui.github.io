@@ -6,9 +6,9 @@ layout: default
 
 Welcome
 
-*   [Github](https://github.com/arcxingye).
-*   [博客](https://xingye.me/).
-*   [b站](https://space.bilibili.com/3853579).
+*   [Github](https://github.com/haiyangmeigui).
+*   [博客]().
+*   [b站]().
 *   [更多游戏](https://xingye.me/game/index.php).
 
 
